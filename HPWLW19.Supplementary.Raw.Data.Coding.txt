@@ -1,0 +1,13 @@
+Each row represents the data for a single participant. The columns are as follows:
+1: Condition (1 = Short-Delay; 2 = Intergenerational; 3 = Legacy Induction)
+2: Group (1-10)
+3: Player (1-6)
+4: Age (17-57)
+5: Gender (1 = male; 2 = female; NaN = missing response)
+6-9: Affinity items 1:4 (1 = Not At All; 7 = Very Much So)
+10: Risk aversion item (0 = No; 1 = Indifferent; 2 = Yes)
+11: Categorical climate belief item (1 = I don’t think that climate change is happening; 2 = I have no idea whether climate change is happening or not; 3 = I think that climate change is happening, but it’s just a natural fluctuation in Earth’s temperatures; 4 = I think that climate change is happening, and I think that humans are largely causing it.
+12: Continuous climate belief item (0 = not at all caused by humans; 100 = entirely caused by humans). 
+13-16: Social dominance orientation items 1-4 (1 = Extremely Oppose; 10 = Extremely Favour)
+17-30: Time perspective items 1-14 (1 = Not At All Like Me; 7 = Very Much Like Me)
+31: Political ideology (1 = Very Left-Wing; 2 = Left-Wing; 3 = Slightly Left-Wing; 4 = Slightly Right-Wing; 5 = Right-Wing; 6 = Very Right-Wing)

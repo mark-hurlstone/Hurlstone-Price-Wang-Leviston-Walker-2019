@@ -1,0 +1,5 @@
+Each row represents the data for a single participant. The columns are as follows:
+1: Condition (1=Short-Delay; 2=Intergenerational; 3=Legacy Induction)
+2: Group (1-10)
+3: Player (1-6)
+4-13: Contributions over rounds 1-10 ($0,$2,$4)

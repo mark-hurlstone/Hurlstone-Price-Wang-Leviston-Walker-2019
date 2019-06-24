@@ -1,0 +1,181 @@
+Condition	Group	Player	Age	Gen	AFF1	AFF2	AFF3	AFF4	RA	BLF1	BLF2	SDO1	SDO2	SDO3	SDO4	TP1	TP2	TP3	TP4	TP5	TP6	TP7	TP8	TP9	TP10	TP11	TP12	TP13	TP14	PI1
+Short-Delay	1	1	18	1	4	4	4	4	0	4	72	10	5	7	4	5	2	2	2	5	5	7	4	1	4	6	5	7	7	1
+Short-Delay	1	2	18	2	2	2	2	2	0	4	84	3	1	1	9	4	3	5	5	6	4	5	4	3	3	5	5	5	5	3
+Short-Delay	1	3	17	2	4	4	4	4	0	3	60	6	6	6	6	4	4	4	5	4	5	5	5	5	5	5	5	5	5	5
+Short-Delay	1	4	19	2	5	5	4	6	2	4	80	7	4	8	4	5	4	3	2	4	5	5	6	2	3	3	4	5	5	4
+Short-Delay	1	5	18	1	1	1	1	1	1	4	88	10	1	10	6	1	1	6	6	6	4	6	6	4	3	5	1	4	3	4
+Short-Delay	1	6	18	2	7	5	5	7	2	4	84	10	1	10	1	6	6	1	1	5	5	6	6	3	1	1	3	6	6	2
+Short-Delay	2	1	20	1	4	6	6	7	0	4	100	1	9	9	1	5	1	1	2	6	6	6	6	1	2	4	4	7	2	3
+Short-Delay	2	2	21	1	2	5	3	4	0	3	40	2	9	2	9	3	4	3	2	5	6	6	4	3	3	5	3	6	6	4
+Short-Delay	2	3	18	2	1	1	1	1	0	4	84	9	2	9	2	2	3	6	4	5	4	6	6	5	3	5	5	3	2	3
+Short-Delay	2	4	18	2	1	1	1	6	0	4	80	9	3	3	1	6	7	3	2	4	7	7	7	2	2	2	2	6	6	2
+Short-Delay	2	5	18	2	1	1	1	1	2	4	60	8	6	4	8	5	5	4	3	5	7	7	4	2	1	3	4	6	5	3
+Short-Delay	2	6	18	2	1	1	1	1	1	4	80	6	9	2	8	5	7	2	2	4	7	7	6	2	1	1	1	5	6	3
+Short-Delay	3	1	18	1	4	5	3	5	0	4	80	5	5	6	3	3	4	2	3	5	5	6	5	3	3	4	5	6	6	3
+Short-Delay	3	2	18	2	4	3	3	6	0	4	80	10	8	8	1	4	4	5	5	5	5	7	6	3	2	5	5	6	5	3
+Short-Delay	3	3	24	2	7	7	7	7	0	4	100	10	10	10	10	7	7	7	6	6	4	5	6	5	1	4	4	4	4	4
+Short-Delay	3	4	18	1	7	7	7	7	0	4	88	10	1	9	1	4	2	2	2	5	3	6	3	1	2	3	3	4	3	4
+Short-Delay	3	5	18	1	6	3	4	6	0	4	92	10	1	8	1	5	5	4	4	6	6	7	7	3	5	5	4	7	5	3
+Short-Delay	3	6	20	1	2	2	3	3	0	4	100	4	2	6	1	3	5	2	2	4	5	6	3	2	1	2	2	7	7	2
+Short-Delay	4	1	19	2	6	5	4	6	0	4	76	9	2	9	2	5	4	4	3	4	5	7	6	3	4	4	5	6	6	3
+Short-Delay	4	2	19	2	3	1	3	4	0	4	64	7	5	9	1	4	4	4	4	4	6	6	2	4	3	2	3	6	5	3
+Short-Delay	4	3	18	1	6	5	5	6	0	4	80	9	2	9	4	4	5	5	4	3	5	6	5	3	3	3	4	3	3	2
+Short-Delay	4	4	25	1	7	7	7	7	1	4	80	10	1	10	1	7	5	2	2	3	6	7	6	1	1	3	4	6	6	1
+Short-Delay	4	5	20	1	7	5	5	7	0	4	96	10	1	3	1	6	7	1	1	2	5	7	4	2	2	2	3	7	7	4
+Short-Delay	4	6	22	2	3	1	2	5	0	4	60	5	2	9	2	5	3	6	5	5	6	5	5	6	5	5	3	4	5	2
+Short-Delay	5	1	19	1	6	6	4	6	0	4	80	9	8	8	5	7	7	4	4	5	4	3	6	5	3	4	4	5	4	3
+Short-Delay	5	2	18	2	4	5	5	6	2	3	80	8	5	8	5	6	5	4	4	3	6	6	6	3	3	3	4	4	4	2
+Short-Delay	5	3	18	2	6	3	4	6	0	4	80	9	5	6	2	2	2	6	5	5	3	5	5	3	3	5	6	3	3	2
+Short-Delay	5	4	19	2	6	5	5	4	0	4	76	4	2	8	3	6	6	2	2	3	6	6	4	2	2	2	3	6	6	4
+Short-Delay	5	5	19	1	4	4	4	4	2	4	64	10	1	10	1	4	4	6	5	5	5	5	6	6	5	5	5	5	4	4
+Short-Delay	5	6	19	2	5	4	5	6	0	4	80	9	1	8	3	6	6	1	3	5	6	6	5	6	1	2	2	7	5	4
+Short-Delay	6	1	21	2	4	7	1	7	2	4	100	7	10	5	10	7	2	1	1	7	7	7	7	7	7	7	7	7	7	1
+Short-Delay	6	2	18	1	5	4	5	5	0	4	68	10	2	8	1	5	5	2	2	4	4	6	4	2	2	2	4	5	5	5
+Short-Delay	6	3	18	1	3	2	1	3	0	4	84	8	2	8	2	6	3	6	5	5	4	5	4	4	4	5	5	6	4	2
+Short-Delay	6	4	18	1	4	4	4	4	0	4	88	10	1	10	1	6	5	2	2	5	5	7	6	2	2	2	5	5	5	3
+Short-Delay	6	5	18	1	6	6	6	5	0	4	60	8	4	6	1	5	5	6	7	5	5	6	5	3	3	5	5	2	3	2
+Short-Delay	6	6	30	1	7	7	7	7	0	4	88	10	1	10	1	7	7	1	1	4	7	7	7	1	1	1	1	6	6	2
+Short-Delay	7	1	27	1	2	2	2	5	1	4	68	7	4	5	6	3	3	5	5	6	3	6	3	3	3	3	6	5	4	4
+Short-Delay	7	2	18	1	4	3	4	4	0	4	80	9	2	6	1	4	5	4	3	4	5	5	4	6	2	4	3	6	4	3
+Short-Delay	7	3	20	1	2	2	2	4	0	3	80	10	3	6	4	1	1	7	7	7	1	3	3	2	2	6	5	5	6	5
+Short-Delay	7	4	19	2	5	5	5	6	0	4	92	9	5	7	2	6	4	3	4	4	5	5	5	4	3	4	4	7	7	2
+Short-Delay	7	5	18	2	5	5	6	1	1	4	96	10	2	10	1	6	6	1	1	4	7	7	7	5	2	2	2	6	6	2
+Short-Delay	7	6	18	1	3	4	4	3	1	3	40	10	1	10	1	5	4	4	4	5	6	6	6	5	5	4	5	6	4	3
+Short-Delay	8	1	18	1	5	7	5	7	0	4	80	10	6	10	3	6	5	2	4	5	3	7	7	3	2	3	2	7	7	2
+Short-Delay	8	2	18	1	5	5	5	3	0	4	80	10	2	10	1	5	2	4	5	2	5	6	5	2	2	5	3	3	4	1
+Short-Delay	8	3	18	2	6	6	6	6	0	3	40	9	2	9	2	6	6	2	2	6	6	6	6	3	2	2	6	6	6	5
+Short-Delay	8	4	19	2	6	6	5	4	0	4	80	9	9	7	4	6	6	3	3	4	6	6	5	4	3	3	3	5	5	4
+Short-Delay	8	5	20	1	4	4	4	4	0	4	80	6	3	6	5	4	4	5	5	6	4	6	5	3	3	4	5	5	5	3
+Short-Delay	8	6	21	2	5	6	5	6	0	4	64	9	9	9	2	4	3	2	4	5	4	5	6	3	5	4	5	5	4	4
+Short-Delay	9	1	19	1	5	4	4	5	0	4	76	9	3	8	2	5	6	1	3	4	7	6	6	3	2	2	2	5	4	2
+Short-Delay	9	2	18	1	4	3	4	4	2	4	84	10	1	9	1	6	6	2	3	3	5	7	6	3	3	3	5	6	4	3
+Short-Delay	9	3	18	2	5	7	4	4	2	4	80	7	7	3	6	5	7	2	3	3	6	6	5	3	2	2	2	7	4	3
+Short-Delay	9	4	19	2	6	6	7	7	2	4	84	10	4	7	1	6	7	4	2	4	5	7	6	2	3	2	4	6	5	3
+Short-Delay	9	5	18	1	4	3	3	6	0	4	88	9	2	9	2	6	4	5	3	4	5	5	5	3	3	4	4	6	6	2
+Short-Delay	9	6	17	1	6	5	5	6	0	4	76	10	3	8	2	5	7	2	2	5	6	7	3	2	2	2	4	6	6	3
+Short-Delay	10	1	20	2	5	5	4	5	0	4	68	10	8	7	3	7	5	1	1	3	6	6	4	1	2	2	3	6	4	2
+Short-Delay	10	2	18	1	7	5	5	5	0	4	80	10	1	10	1	4	2	6	6	5	7	7	2	4	1	4	6	6	6	3
+Short-Delay	10	3	20	2	4	5	5	6	0	4	72	8	4	10	2	5	5	2	2	4	6	6	6	2	2	2	2	6	6	3
+Short-Delay	10	4	22	1	7	5	4	7	0	4	100	8	6	9	1	7	4	1	2	3	3	6	5	1	1	3	3	6	6	3
+Short-Delay	10	5	28	2	5	4	5	5	0	4	68	7	3	8	1	5	3	3	3	4	3	5	4	2	2	2	2	4	4	3
+Short-Delay	10	6	22	1	5	5	5	5	2	4	88	10	10	10	1	5	5	4	4	5	5	5	5	3	5	4	5	5	5	5
+Intergenerational	1	1	NaN	NaN	7	4	5	6	0	4	72	4	7	8	7	3	1	6	6	2	4	5	4	6	5	6	6	2	3	2
+Intergenerational	1	2	NaN	NaN	7	2	5	7	0	4	96	10	1	10	1	6	6	2	2	3	5	7	5	2	2	3	3	5	4	2
+Intergenerational	1	3	NaN	NaN	5	5	6	6	0	4	40	9	2	9	3	6	5	5	3	3	5	7	5	3	3	3	3	6	5	4
+Intergenerational	1	4	NaN	NaN	4	5	3	5	0	4	84	7	4	5	6	2	2	4	5	3	5	5	5	3	2	4	5	5	3	4
+Intergenerational	1	5	NaN	NaN	5	3	3	6	0	3	36	9	1	9	1	5	2	6	3	6	4	2	3	7	7	5	5	6	6	5
+Intergenerational	1	6	NaN	NaN	5	3	4	6	0	4	88	10	1	10	1	7	6	2	1	5	5	7	6	2	1	2	4	5	4	4
+Intergenerational	2	1	NaN	NaN	5	2	5	6	0	4	92	10	2	10	1	5	4	4	2	6	4	6	7	2	2	2	5	5	5	3
+Intergenerational	2	2	NaN	NaN	6	4	5	5	0	3	44	10	1	10	1	6	5	4	3	3	6	5	5	6	4	4	5	6	5	3
+Intergenerational	2	3	NaN	NaN	6	7	6	7	2	4	96	9	2	9	3	6	5	3	3	5	6	7	5	2	3	3	3	5	5	2
+Intergenerational	2	4	NaN	NaN	5	4	4	5	0	3	40	8	5	8	3	4	5	4	4	5	6	4	5	2	3	3	3	5	5	3
+Intergenerational	2	5	NaN	NaN	7	1	1	7	0	4	92	10	3	9	7	1	7	2	2	1	6	7	5	2	1	1	2	7	6	2
+Intergenerational	2	6	NaN	NaN	2	3	3	5	0	4	32	8	4	4	6	3	5	2	3	7	2	6	4	4	3	2	4	6	5	5
+Intergenerational	3	1	21	1	5	5	6	7	0	4	76	7	6	6	7	5	4	3	6	3	6	7	5	2	2	3	4	7	6	5
+Intergenerational	3	2	28	1	7	6	6	6	0	4	88	10	10	10	1	6	5	1	1	6	5	7	7	2	1	2	3	7	5	2
+Intergenerational	3	3	24	1	4	3	4	5	2	4	76	8	4	5	8	7	7	7	7	7	5	7	7	3	3	5	7	7	5	4
+Intergenerational	3	4	19	2	5	5	5	7	0	4	36	8	7	10	3	6	5	3	1	3	5	7	3	2	3	3	4	6	6	5
+Intergenerational	3	5	21	1	7	7	7	7	0	4	92	10	1	10	1	6	5	1	1	3	4	7	4	1	1	1	1	7	6	3
+Intergenerational	3	6	23	1	4	4	5	7	0	4	72	7	6	3	2	3	5	5	3	5	6	7	4	3	2	4	4	5	6	3
+Intergenerational	4	1	21	1	4	4	4	4	0	4	60	10	3	9	4	5	6	6	6	6	6	6	6	5	5	6	4	6	6	3
+Intergenerational	4	2	20	2	5	3	4	7	0	3	44	8	2	9	3	3	5	7	6	6	4	4	4	2	4	5	4	6	4	5
+Intergenerational	4	3	22	3	7	7	7	5	0	4	92	10	3	9	1	7	7	1	1	4	6	7	7	1	1	1	1	5	6	1
+Intergenerational	4	4	24	2	6	5	7	5	0	4	92	10	1	10	1	6	6	2	2	4	7	7	7	3	3	4	4	7	7	2
+Intergenerational	4	5	39	2	3	7	7	7	1	4	92	10	1	10	1	6	7	2	1	4	6	7	5	3	1	1	3	7	7	2
+Intergenerational	4	6	17	1	4	3	4	5	0	4	76	9	5	6	2	6	6	6	3	6	5	6	4	5	4	4	5	5	4	3
+Intergenerational	5	1	18	2	3	1	3	5	2	2	48	10	1	10	1	5	1	5	7	7	2	4	5	3	5	6	6	3	3	3
+Intergenerational	5	2	24	2	3	4	2	5	0	2	52	8	7	5	4	4	3	5	4	5	4	5	3	2	2	3	4	4	3	3
+Intergenerational	5	3	32	2	7	7	7	7	0	4	96	10	8	10	1	5	5	4	4	4	6	6	4	5	3	5	4	4	3	4
+Intergenerational	5	4	21	2	4	5	5	7	0	3	36	10	9	4	1	3	3	4	4	4	2	4	4	4	3	5	3	5	2	5
+Intergenerational	5	5	22	2	6	7	6	7	0	3	12	10	1	10	1	4	4	4	1	4	7	7	5	1	1	2	4	7	5	4
+Intergenerational	5	6	18	2	6	6	6	6	1	4	100	10	10	10	1	6	6	2	2	2	2	6	7	1	1	2	2	6	6	2
+Intergenerational	6	1	20	2	5	4	5	5	0	4	72	9	1	10	1	5	5	4	3	4	4	6	6	6	3	5	4	6	5	2
+Intergenerational	6	2	29	2	4	5	3	7	1	4	80	3	4	5	4	5	5	1	2	7	4	6	2	2	1	1	2	6	6	3
+Intergenerational	6	3	18	3	6	5	5	6	0	4	80	10	1	10	3	4	3	4	5	6	5	5	4	4	4	5	5	6	6	2
+Intergenerational	6	4	20	1	7	7	7	7	0	4	84	7	7	7	7	7	7	4	3	4	7	7	7	1	1	3	6	7	7	4
+Intergenerational	6	5	37	2	7	7	7	7	0	4	92	10	1	10	1	7	4	1	1	1	7	7	7	1	1	1	1	7	7	1
+Intergenerational	6	6	20	2	6	7	6	7	0	4	80	9	4	8	1	5	4	3	6	6	6	5	6	3	3	3	4	5	4	3
+Intergenerational	7	1	19	1	7	5	5	7	0	4	80	8	1	5	8	6	7	2	2	3	6	6	6	6	2	2	2	6	6	4
+Intergenerational	7	2	19	1	7	7	7	4	2	4	80	5	5	1	1	7	7	2	2	4	7	7	4	1	1	2	2	7	5	5
+Intergenerational	7	3	18	1	7	6	7	7	0	4	68	1	1	9	1	4	5	3	3	2	6	5	4	3	4	3	4	7	5	3
+Intergenerational	7	4	19	2	3	3	4	4	2	4	80	8	1	8	6	2	4	5	4	5	4	4	5	5	5	4	5	4	3	1
+Intergenerational	7	5	17	1	6	6	6	6	0	4	0	1	1	10	1	5	4	4	4	4	4	4	4	4	4	4	4	5	5	4
+Intergenerational	7	6	21	1	4	6	5	6	0	4	68	9	8	6	5	4	5	5	5	5	4	6	5	2	4	4	4	6	5	4
+Intergenerational	8	1	18	1	5	3	3	4	0	4	56	9	2	9	2	2	1	6	6	5	2	3	2	3	3	5	5	3	3	3
+Intergenerational	8	2	34	2	7	5	5	6	1	3	16	7	5	8	5	5	6	3	3	4	5	5	5	5	5	5	4	6	6	4
+Intergenerational	8	3	20	2	4	4	4	6	0	4	100	9	4	7	6	5	6	5	5	5	4	6	5	4	5	5	5	5	5	3
+Intergenerational	8	4	18	1	5	3	4	3	0	4	88	10	1	10	1	5	3	3	3	5	3	5	5	5	4	2	4	4	3	1
+Intergenerational	8	5	18	2	2	2	2	2	2	3	20	8	8	8	2	1	1	6	6	6	4	4	4	5	3	5	4	5	5	3
+Intergenerational	8	6	18	1	6	4	5	5	0	3	20	10	1	10	1	5	5	6	5	5	6	6	7	3	3	4	3	7	5	4
+Intergenerational	9	1	27	1	6	3	3	6	0	3	28	10	9	4	1	7	7	2	2	6	4	7	6	4	5	6	6	4	2	2
+Intergenerational	9	2	19	2	5	6	6	7	0	4	64	4	8	4	8	6	3	3	3	3	5	6	6	3	3	2	3	6	6	2
+Intergenerational	9	3	18	2	3	3	3	4	1	3	36	3	3	3	3	3	5	2	3	3	4	4	4	3	3	2	3	5	3	4
+Intergenerational	9	4	18	1	6	6	6	6	2	4	80	8	2	9	1	5	5	2	3	3	5	6	4	2	4	3	6	6	5	2
+Intergenerational	9	5	18	2	5	4	4	5	2	3	52	10	2	9	2	5	4	2	2	2	6	5	5	3	3	2	3	7	5	5
+Intergenerational	9	6	18	1	5	5	5	5	0	4	80	9	2	9	5	5	3	4	3	4	2	6	5	2	3	3	4	2	2	4
+Intergenerational	10	1	23	2	7	7	7	7	0	4	96	8	2	9	1	5	4	3	2	6	6	5	7	1	1	2	1	7	7	2
+Intergenerational	10	2	18	1	5	6	5	5	0	4	76	10	1	10	1	3	2	5	3	4	5	5	6	2	2	5	3	6	3	2
+Intergenerational	10	3	18	2	3	3	2	3	0	4	80	6	7	5	6	5	4	3	3	5	3	4	4	2	3	4	3	5	4	3
+Intergenerational	10	4	18	1	4	5	4	7	1	4	60	10	1	10	1	2	2	5	6	3	4	3	2	3	2	6	4	2	3	3
+Intergenerational	10	5	18	1	7	7	6	7	0	4	84	10	1	10	1	7	7	1	1	4	6	6	5	1	2	2	5	7	6	3
+Intergenerational	10	6	18	1	4	3	3	2	0	4	80	10	1	10	2	3	1	5	4	5	4	3	3	5	3	3	4	5	6	2
+Legacy Induction	1	1	19	2	3	4	2	7	2	4	40	8	3	4	3	1	7	3	3	5	5	6	6	6	3	3	5	5	5	5
+Legacy Induction	1	2	53	1	7	7	7	7	2	4	84	8	3	8	2	4	6	2	1	5	5	6	5	3	2	3	4	6	4	4
+Legacy Induction	1	3	18	1	6	3	4	4	2	4	84	10	1	10	1	1	1	4	5	7	5	4	4	2	3	5	5	5	4	3
+Legacy Induction	1	4	19	1	5	5	5	6	0	4	76	9	4	9	2	4	4	4	2	3	5	6	4	3	2	2	4	6	5	4
+Legacy Induction	1	5	18	1	5	6	5	7	0	4	80	8	1	10	1	7	6	3	1	2	7	7	7	2	1	2	7	7	6	1
+Legacy Induction	1	6	17	2	2	2	2	4	0	3	40	7	10	7	4	5	4	6	6	7	4	3	3	6	5	6	5	4	4	4
+Legacy Induction	2	1	17	1	2	3	3	6	0	4	80	7	2	8	1	2	2	4	3	5	5	5	5	5	3	6	4	6	5	2
+Legacy Induction	2	2	18	1	6	2	2	6	0	4	80	9	2	9	2	3	3	4	5	6	4	5	6	3	3	3	6	4	6	2
+Legacy Induction	2	3	18	1	7	7	7	7	0	4	92	9	1	9	1	6	7	1	1	4	6	5	6	3	2	3	4	6	5	3
+Legacy Induction	2	4	19	1	7	7	7	7	1	4	80	10	3	7	1	7	7	2	2	2	6	7	7	1	1	1	2	7	6	2
+Legacy Induction	2	5	18	2	5	5	5	6	0	4	92	9	1	10	2	5	4	3	4	3	5	5	5	3	2	2	4	5	5	3
+Legacy Induction	2	6	25	2	3	3	3	5	0	4	100	3	7	4	2	3	4	5	5	3	7	7	5	3	1	2	3	6	4	2
+Legacy Induction	3	1	22	2	7	7	7	7	0	4	52	7	2	8	1	7	7	1	1	3	4	6	6	3	1	4	3	5	5	1
+Legacy Induction	3	2	19	2	3	5	4	7	2	4	80	6	4	7	3	2	7	3	3	5	7	5	4	5	2	2	5	6	6	2
+Legacy Induction	3	3	18	1	7	6	6	6	1	4	92	10	2	10	1	6	6	2	2	3	6	7	5	2	2	2	3	7	7	2
+Legacy Induction	3	4	19	2	6	6	6	6	1	4	80	10	8	6	9	5	4	6	5	7	3	4	7	6	5	6	5	5	5	4
+Legacy Induction	3	5	19	2	3	3	4	3	1	3	20	8	3	7	5	5	5	2	3	3	6	5	5	3	3	3	2	5	5	3
+Legacy Induction	3	6	19	2	4	4	4	4	0	4	100	10	1	10	1	7	7	1	1	7	4	7	7	1	1	1	1	7	7	6
+Legacy Induction	4	1	18	2	6	5	5	6	0	4	92	8	2	7	2	6	5	2	2	3	5	7	4	2	2	2	2	5	6	1
+Legacy Induction	4	2	18	2	7	6	6	7	0	4	80	10	2	8	1	6	5	4	4	3	6	7	6	5	3	4	4	5	5	2
+Legacy Induction	4	3	18	1	6	5	5	6	0	4	96	9	1	10	1	6	4	2	3	2	5	7	5	3	3	3	4	7	5	2
+Legacy Induction	4	4	19	1	5	5	4	6	2	4	84	9	1	9	3	2	5	2	3	4	4	6	5	3	1	2	4	5	4	3
+Legacy Induction	4	5	21	1	4	6	5	6	0	4	56	9	5	8	6	4	4	3	4	2	5	5	5	2	2	3	4	5	5	2
+Legacy Induction	4	6	18	1	7	4	4	7	0	3	76	10	1	10	1	5	1	5	6	6	4	7	6	4	3	5	4	6	5	4
+Legacy Induction	5	1	22	1	1	3	3	1	0	4	60	10	1	10	1	5	5	1	1	2	4	7	4	1	1	1	4	6	6	3
+Legacy Induction	5	2	19	1	5	4	5	3	0	4	84	8	1	9	1	5	6	3	3	6	4	6	6	2	4	3	3	7	5	2
+Legacy Induction	5	3	18	1	6	4	4	6	0	4	80	9	1	8	1	7	5	2	3	6	5	5	3	4	2	2	5	6	5	3
+Legacy Induction	5	4	23	2	6	5	5	5	1	4	68	9	3	8	4	5	5	4	4	5	5	3	5	4	3	6	5	3	5	3
+Legacy Induction	5	5	23	2	2	3	3	6	0	4	72	8	1	7	5	5	6	4	4	5	5	5	5	5	3	3	3	5	5	5
+Legacy Induction	5	6	21	1	4	6	3	6	0	4	76	9	2	8	3	3	4	2	5	5	4	4	4	4	3	5	5	5	5	3
+Legacy Induction	6	1	19	2	6	6	6	6	2	4	64	9	1	5	1	5	5	3	3	5	4	6	6	2	1	2	4	3	3	3
+Legacy Induction	6	2	21	2	3	5	5	2	0	4	84	10	1	7	5	2	6	2	3	6	5	7	4	2	1	1	6	6	6	3
+Legacy Induction	6	3	23	1	7	7	7	7	0	4	72	10	1	9	1	6	7	2	1	1	6	7	6	1	1	1	1	7	5	2
+Legacy Induction	6	4	23	2	5	5	5	5	0	4	100	9	5	7	7	4	2	4	4	4	5	4	4	3	3	3	3	5	5	4
+Legacy Induction	6	5	18	1	3	3	2	6	0	4	100	10	1	10	1	6	6	2	2	2	6	7	7	1	1	1	2	5	5	1
+Legacy Induction	6	6	29	2	4	3	5	5	1	3	60	8	6	6	3	5	2	2	1	2	2	6	5	2	2	2	2	6	5	5
+Legacy Induction	7	1	30	1	5	5	5	5	0	4	88	3	5	7	3	3	2	2	4	2	5	4	5	2	2	2	2	3	2	1
+Legacy Induction	7	2	23	1	6	6	6	4	1	3	20	7	8	2	1	5	4	3	4	2	5	3	4	3	5	3	7	5	5	3
+Legacy Induction	7	3	18	2	5	4	4	6	2	4	80	8	4	8	3	5	5	3	3	3	5	6	4	2	2	3	3	6	5	3
+Legacy Induction	7	4	20	1	5	5	4	4	0	4	60	10	1	10	1	5	3	4	4	6	4	5	3	4	3	4	5	3	3	2
+Legacy Induction	7	5	31	1	4	4	4	4	0	4	72	8	8	10	4	2	4	5	4	5	4	5	4	4	3	3	4	5	4	4
+Legacy Induction	7	6	57	1	7	7	7	7	0	4	84	3	10	1	1	4	7	1	1	2	4	7	6	1	1	1	3	7	4	3
+Legacy Induction	8	1	18	2	6	4	5	6	0	4	88	8	3	3	1	6	4	2	2	2	6	6	4	3	3	2	2	3	4	2
+Legacy Induction	8	2	25	2	6	6	5	7	0	4	28	10	10	10	1	7	7	1	2	6	6	7	6	1	2	2	2	7	6	4
+Legacy Induction	8	3	23	2	7	7	7	7	0	4	80	7	5	2	1	7	4	2	4	4	6	6	5	2	1	2	5	7	6	4
+Legacy Induction	8	4	28	1	7	7	7	7	0	4	96	10	4	9	5	7	7	2	6	5	5	7	7	2	2	2	3	7	5	1
+Legacy Induction	8	5	24	2	7	7	5	6	0	4	80	10	1	10	1	7	4	3	2	4	6	7	4	1	1	1	2	7	7	2
+Legacy Induction	8	6	19	1	6	6	5	7	0	4	80	9	2	10	1	5	5	1	3	4	4	6	4	2	1	1	4	6	6	3
+Legacy Induction	9	1	18	2	4	4	5	6	0	4	60	10	1	9	3	4	4	4	3	4	3	6	4	3	3	3	4	5	5	3
+Legacy Induction	9	2	19	1	7	5	3	5	0	4	80	10	1	10	1	5	2	4	5	7	3	5	3	5	2	4	3	7	5	4
+Legacy Induction	9	3	19	1	6	5	5	4	0	4	76	10	3	9	2	4	3	4	5	7	3	6	4	5	5	5	6	3	2	4
+Legacy Induction	9	4	39	2	6	6	6	6	0	4	88	10	1	10	5	6	5	1	2	3	3	6	5	3	1	2	2	6	5	2
+Legacy Induction	9	5	19	1	6	6	6	7	0	4	68	10	7	7	1	7	7	4	4	5	7	7	5	3	3	3	4	7	6	4
+Legacy Induction	9	6	24	1	7	5	5	4	0	4	64	10	1	10	1	6	4	2	2	6	6	3	5	1	2	1	3	6	5	1
+Legacy Induction	10	1	20	2	7	7	7	7	0	4	68	10	1	8	1	6	4	4	1	2	5	5	5	3	4	4	5	7	6	4
+Legacy Induction	10	2	22	1	7	7	7	7	0	4	88	10	2	9	1	7	7	1	1	2	6	6	6	2	1	1	1	6	5	1
+Legacy Induction	10	3	20	1	6	4	3	6	0	4	100	9	2	9	1	6	6	2	2	4	6	7	5	2	1	3	5	6	6	1
+Legacy Induction	10	4	20	2	6	5	5	5	2	4	92	8	1	9	1	5	5	6	6	6	5	3	2	2	2	5	6	5	5	4
+Legacy Induction	10	5	31	1	6	7	6	6	0	4	76	10	2	10	1	5	5	2	2	4	6	7	5	3	3	2	3	7	6	1
+Legacy Induction	10	6	20	2	6	5	5	6	2	4	76	8	3	7	5	3	3	5	2	3	4	5	4	3	6	3	4	3	4	3
